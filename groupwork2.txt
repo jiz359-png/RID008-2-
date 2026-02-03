@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello, this is a test file.
 This line is also in the file.Today is Monday.
+=======
+Today is 2/2.
+>>>>>>> f9f42581c09e2ca3304983332df096befbaa6f50
+Today is Monday.
